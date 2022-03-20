@@ -1,0 +1,14 @@
+{
+  "name": "topic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "emit_log_topic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
